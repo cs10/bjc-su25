@@ -13,14 +13,14 @@
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
-    <a href="#Day1">Jump to Current Week</a>
+    <a href="#week1">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 Calendar -->
 <table class="table table-bordered schedule-table" id="week1">
   <thead>
     <tr>
-      <th class="center schedule-week-num">Week</th>
+      <th class="center schedule-week-num">Week 1</th>
       <th>Date</th>
       <th>Lecture</th>
       <th>Lab</th>
@@ -32,7 +32,7 @@
     <tr>
         <th>Mon 6/23</th> <!-- Date -->
         <td>Lec 1. Abstraction</td><!-- Lecture -->
-        <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?1&2&3&topic=berkeley_bjc%2Fintro_pair%2F1-introduction.topic&course&novideo&noreading&noassignment">Lab 1: Welcome to Snap!</a></td></br><!-- Lab -->
+        <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?1&2&3&topic=berkeley_bjc%2Fintro_pair%2F1-introduction.topic&course&novideo&noreading&noassignment">Lab 1: Welcome to Snap!</a></td><!-- Lab -->
         <td>Group Activity</td> <!-- Discussion -->
         <td>Challenge Problems!</td> <!-- Assignment / Exam -->
     </tr>
