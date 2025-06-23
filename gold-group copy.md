@@ -5,6 +5,7 @@ description:
 nav_order: 4
 ---
 
+# Gold Group Schedule
 <!-- Add styles for alternating row colors and borders -->
 <style>
     .schedule-table {
