@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Blue Group
+title: Gold Group
 description: 
 nav_order: 4
 ---
-# Blue Group Schedule
+
+# Gold Group Schedule
 <!-- Add styles for alternating row colors and borders -->
 <style>
     .schedule-table {
