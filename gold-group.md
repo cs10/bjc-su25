@@ -2,7 +2,7 @@
 layout: default
 title: Gold Group
 description: 
-nav_order: 4
+nav_order: 5
 ---
 
 # Gold Group Schedule
