@@ -1,9 +1,3 @@
----
-layout: default
-title: Joining CS 10 Late
-description: Q/A, Late Add
-nav_order: 10
----
 
 
 # Joining CS 10 Late – What You Need to Know

@@ -1,9 +1,4 @@
----
-layout: default
-title: Syllabus
-nav_order: 3
-description: Course policies and information.
----
+
 
 
 # Syllabus

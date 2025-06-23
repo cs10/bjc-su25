@@ -1,10 +1,4 @@
----
-layout: default
-title: Readings
-description: A list of all readings.
-nav_exclude: false
-nav_order: 9
----
+
 
 # Readings
 

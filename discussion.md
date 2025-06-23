@@ -1,10 +1,4 @@
----
-layout: default
-title: Discussion
-description: >-
-    Discussion worksheets and solutions
-nav_order: 7
----
+
 
 # Discussion
 
