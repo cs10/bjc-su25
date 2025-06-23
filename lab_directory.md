@@ -2,7 +2,7 @@
 layout: default
 title: Labs
 description: Lab worksheets, links, and deadlines
-nav_order: 8
+nav_order: 2
 ---
 # Labs
 
