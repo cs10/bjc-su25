@@ -23,8 +23,9 @@ UC Berkeley, Summer 2025
 
 ## CS10 Calendar
 
+Click on the group you are assigned to find the schedule and links!
+
 To join the EdStem (and ask questions), follow this link: <a href="EdStem">https://edstem.org/us/join/ZZAHBs</a>
 
-{% include_relative schedule.md %}
 
 
