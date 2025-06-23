@@ -31,7 +31,7 @@ url: 'http://cs10.org' # the hostname & protocol for your site, e.g. http://exam
 # TODO(setup): Set all of these course variables
 course: CS 10
 course_email: cs10@berkeley.edu
-gradescope_course_id: 957259 # you can find this in the Gradescope URL after /courses
+gradescope_course_id: 1060188 # you can find this in the Gradescope URL after /courses
 bcourses_course_id: 1542284 # Same as above, but for bCourses. Leave blank if not in use...
 ed_course_id: 74174 # Again, same as above.
 sememster: bjc-su25 # set for the current seemester
@@ -46,8 +46,6 @@ class_archive_path: /
 # TODO(setup): Set these auxiliary links as you wish - they show up on the top right
 aux_links:
   # TODO(template): Move this to be built-in.
-  Ed:
-    - 'https://edstem.org/us/courses/80186/discussion'
   OH Queue:
     - 'https://oh.cs10.org'
   Snap!:

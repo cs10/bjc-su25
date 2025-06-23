@@ -16,16 +16,12 @@ UC Berkeley, Summer 2025
 
 {{ site.description }}
 
-<br/>
+### Gradescope
 
-{% include youtube.html id='oG1OItm4JyU' %}
-
+To join the Gradescope (for autograders), go to [gradescope.com](Gradescope.com) and click on "Enroll in Course". Then enter the following code: 8X5J6E
 
 ## CS10 Calendar
 
-Click on the group you are assigned to find the schedule and links!
-
-To join the EdStem (and ask questions), follow this link: <a href="EdStem">https://edstem.org/us/join/ZZAHBs</a>
-
+{% include_relative schedule.md %}
 
 
