@@ -47,7 +47,7 @@ class_archive_path: /
 aux_links:
   # TODO(template): Move this to be built-in.
   OH Queue:
-    - 'https://oh.cs10.org'
+    - 'https://docs.google.com/forms/d/e/1FAIpQLScKuqcMMgAZyRQ_H8mtIpsTZBKflgn6ZoCUUpprha4elWKt-w/viewform?usp=dialog'
   Snap!:
     - 'https://snap.berkeley.edu/run'
   Gradescope:

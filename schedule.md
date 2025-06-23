@@ -37,7 +37,7 @@
         <a href="https://cs10.org/bjc-r/cur/programming/loops/repeat-n/introduction-to-repeat-n.html?1&2&2&3&topic=berkeley_bjc%2Fintro_pair%2F2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">Lab 2. Build Your Own Blocks</a></td><!-- Lab -->
         <td>Group Activity</td> <!-- Discussion -->
         <td>Challenge Problems!<br/>
-        <a href="https://docs.google.com/document/d/1vEw7CExy_wdLr5uge4k5pun_fgm3wGnxKBdUq3GlHG8/edit?usp=drive_link">Snap! Scavenger Hunt</a><br/>
+        <a href="https://docs.google.com/document/d/1SGeg23xw8VANSu8XvhydBove4it376ivMXyssTuH6gE/edit?usp=sharing">Snap! Scavenger Hunt</a><br/>
         </td> <!-- Assignment / Exam -->
     </tr>
     <tr>
