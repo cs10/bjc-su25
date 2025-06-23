@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Labs
-description: Lab worksheets, links, and deadlines
+title: Gold Group
+description: 
 nav_order: 4
 ---
 
