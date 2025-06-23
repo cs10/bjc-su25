@@ -16,13 +16,6 @@ UC Berkeley, Summer 2025
 
 {{ site.description }}
 
-**Instructors:** Victoria Phelps<br/>
-                Sarah Taylor<br/>
-                Jordan Schwartz<br/>
-                Amy Castillo<br/>
-                Dream Lopez<br/>
-                Bella Longhi<br/>
-
 <br/>
 
 {% include youtube.html id='oG1OItm4JyU' %}
@@ -30,7 +23,7 @@ UC Berkeley, Summer 2025
 
 ## CS10 Calendar
 
-To join the EdStem (and ask questions), follow this link: https://edstem.org/us/join/ZZAHBs
+To join the EdStem (and ask questions), follow this link: <a href="EdStem">https://edstem.org/us/join/ZZAHBs</a>
 
 {% include_relative schedule.md %}
 

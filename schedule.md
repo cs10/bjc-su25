@@ -32,8 +32,7 @@
     <tr>
         <th>Mon 6/23</th> <!-- Date -->
         <td>Lec 1. Abstraction</td><!-- Lecture -->
-        <td>Lab 1: Welcome to Snap!</td></br>
-         <!-- Lab -->
+        <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?1&2&3&topic=berkeley_bjc%2Fintro_pair%2F1-introduction.topic&course&novideo&noreading&noassignment">Lab 1: Welcome to Snap!</a></td></br><!-- Lab -->
         <td>Group Activity</td> <!-- Discussion -->
         <td>Challenge Problems!</td> <!-- Assignment / Exam -->
     </tr>
@@ -60,7 +59,7 @@
     </tr>
     <tr>
         <th>Fri 6/27</th> <!-- Date -->
-        <td><!-- Lecture -->
+        <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->

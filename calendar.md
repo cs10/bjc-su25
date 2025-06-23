@@ -1,9 +1,3 @@
----
-layout: default
-title: Calendar
-description: The weekly event calendar.
-nav_order: 2
----
 
 # Weekly Calendar (Updated Each Week)
 
