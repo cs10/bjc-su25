@@ -52,10 +52,11 @@ nav_order: 6
     </tr>
     <tr>
         <th>Tue 6/24</th> <!-- Date -->
-        <td>Lec 3. Lists + Loops<br/>
+        <td><a href="">Lec 3. Lists + Loops</a><br/>
         Lec 4. HOFs and Scope</td><!-- Lecture -->
-        <td>Lab 2. Lists + Loops<br/>
-        Lab 3. HOFs</td> <!-- Lab -->
+        <th>Tue 6/24</th> <!-- Date -->
+        <td><a href="/bjc-su25/lab_directory">Lab 2. Lists + Loops</a><br/>
+        <a href="/bjc-su25/lab_directory">Lab 3. HOFs</a></td> <!-- Lab -->
         <td>Predicates + Truth Tables</td> <!-- Discussion -->
         <td><a href="https://cs10.org/bjc-r/cur/programming/loops/repeat-n/draw-regular-polygons-with-repeat.html?1&2&2&3&topic=berkeley_bjc%2Fintro_pair%2F2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">Generalize a Polygon!</a></td> <!-- Assignment / Exam -->
     </tr>
