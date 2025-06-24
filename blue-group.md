@@ -45,10 +45,13 @@ nav_order: 4
     </tr>
     <tr>
         <th>Tue 6/24</th> <!-- Date -->
-        <td></td><!-- Lecture -->
-        <td></td> <!-- Lab -->
+        <td>Lec 3. Conditions, Predicates, Truth Tables<br/>
+        Lec 4. Lists + Loops</td><!-- Lecture -->
+        <td><a href="/bjc-su25/lab_directory">Lab 1. Welcome to Snap!</a><br/>
+        <a href="/bjc-su25/lab_directory">Lab 2. Build Your Own Blocks</a><br/>
+        <a href="/bjc-su25/lab_directory">Lab 3. Conditionals</a><br/></td> 
         <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment / Exam -->
+        <td><a href="/bjc-su25/projects">Wordle</a><br/></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Wed 6/25</th> <!-- Date -->
