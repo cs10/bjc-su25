@@ -35,7 +35,8 @@
         Lec 2. Functions</td><!-- Lecture -->
         <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?1&2&3&topic=berkeley_bjc%2Fintro_pair%2F1-introduction.topic&course&novideo&noreading&noassignment">Lab 1: Welcome to Snap!</a><br/>
         <a href="https://cs10.org/bjc-r/cur/programming/loops/repeat-n/introduction-to-repeat-n.html?1&2&2&3&topic=berkeley_bjc%2Fintro_pair%2F2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">Lab 2. Build Your Own Blocks</a></td><!-- Lab -->
-        <td>Group Activity</td> <!-- Discussion -->
+        <td>Group Activity<br/>
+        <a href="https://forms.gle/mLrxYMLhqAWWcszs7">Reflection Form</a></td> <!-- Discussion -->
         <td>Challenge Problems!<br/>
         <a href="https://docs.google.com/document/d/1SGeg23xw8VANSu8XvhydBove4it376ivMXyssTuH6gE/edit?usp=sharing">Snap! Scavenger Hunt</a><br/>
         </td> <!-- Assignment / Exam -->
