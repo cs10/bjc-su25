@@ -43,31 +43,31 @@
     </tr>
     <tr>
         <th>Tue 6/24</th> <!-- Date -->
-        <td></td><!-- Lecture -->
-        <td></td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment / Exam -->
+        <td>Lectures</td><!-- Lecture -->
+        <td>Labs</td> <!-- Lab -->
+        <td>Discussion<br/>Computing in the News</td> <!-- Discussion -->
+        <td>Projects<br/><a href="">Feedback Form</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Wed 6/25</th> <!-- Date -->
-        <td></td> <!-- Lecture -->
-        <td></td><!-- Lab -->
-        <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignments -->
+        <td>Lectures</td><!-- Lecture -->
+        <td>Labs</td> <!-- Lab -->
+        <td>Discussion<br/>Computing in the News</td> <!-- Discussion -->
+        <td>Projects<br/><a href="">Feedback Form</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Thu 6/26</th> <!-- Date -->
-        <td></td><!-- Lecture -->
-        <td></td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment / Exam -->
+        <td>Lectures</td><!-- Lecture -->
+        <td>Labs</td> <!-- Lab -->
+        <td>Discussion<br/>Computing in the News</td> <!-- Discussion -->
+        <td>Projects<br/><a href="">Feedback Form</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Fri 6/27</th> <!-- Date -->
-        <td></td><!-- Lecture -->
-        <td></td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment / Exam -->
+        <td>Lectures</td><!-- Lecture -->
+        <td>Labs</td> <!-- Lab -->
+        <td>Discussion<br/>Computing in the News</td> <!-- Discussion -->
+        <td>Projects<br/><a href="">Feedback Form</a></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
