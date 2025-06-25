@@ -65,7 +65,7 @@ nav_order: 6
         <td>Lab 5. HOFs<br/>
         Lab 6. Boards<br/>
         Lab 7. Functions as Data</td><!-- Lab -->
-        <td>Disc. HOFs + Nested Lists</td> <!-- Discussion -->
+        <td><a href="https://docs.google.com/document/d/14hV5ngzGthH-nHbw9eV9XKH30Z5ocm7N/edit?usp=sharing&ouid=106220240438634734707&rtpof=true&sd=true">Disc. HOFs + Nested Lists</a></td> <!-- Discussion -->
         <td>Wordle<br/>
         Spelling Bee<br/></td> <!-- Assignments -->
     </tr>
