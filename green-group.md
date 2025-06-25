@@ -47,14 +47,12 @@ nav_order: 6
         <td>Group Activity<br/>
         <a href="https://forms.gle/mLrxYMLhqAWWcszs7">Reflection Form</a></td> <!-- Discussion -->
         <td>Challenge Problems!<br/>
-        <a href="https://docs.google.com/document/d/1SGeg23xw8VANSu8XvhydBove4it376ivMXyssTuH6gE/edit?usp=sharing">Snap! Scavenger Hunt</a><br/>
-        </td> <!-- Assignment / Exam -->
+        <a href="https://docs.google.com/document/d/1SGeg23xw8VANSu8XvhydBove4it376ivMXyssTuH6gE/edit?usp=sharing">Snap! Scavenger Hunt</a><br/></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Tue 6/24</th> <!-- Date -->
         <td><a href="">Lec 3. Lists + Loops</a><br/>
         Lec 4. HOFs and Scope</td><!-- Lecture -->
-        <th>Tue 6/24</th> <!-- Date -->
         <td><a href="/bjc-su25/lab_directory">Lab 2. Lists + Loops</a><br/>
         <a href="/bjc-su25/lab_directory">Lab 3. HOFs</a></td> <!-- Lab -->
         <td>Predicates + Truth Tables</td> <!-- Discussion -->
