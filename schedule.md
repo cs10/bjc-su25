@@ -53,7 +53,7 @@
         <td>Lectures</td><!-- Lecture -->
         <td>Labs</td> <!-- Lab -->
         <td>Discussion<br/>Computing in the News</td> <!-- Discussion -->
-        <td>Projects<br/><a href="">Feedback Form</a></td> <!-- Assignment / Exam -->
+        <td>Projects<br/><a href="https://forms.gle/mWdEYa68ij2ce9Ns9">Feedback Form</a></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
         <th>Thu 6/26</th> <!-- Date -->
