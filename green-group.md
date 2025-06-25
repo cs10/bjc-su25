@@ -62,7 +62,7 @@ nav_order: 6
     </tr>
     <tr>
         <th>Wed 6/25</th> <!-- Date -->
-        <td>Lec 5. Higher Order Functions (HOFs)<br/>
+        <td><a href="https://docs.google.com/presentation/d/1wTHm5WBqCWBxHGikdMoJSyKlrNljobwYmaKyfahzbFI/edit?usp=sharing">Lec 5. Higher Order Functions (HOFs)</a><br/>
         Lec 6. Nested Lists</td> <!-- Lecture -->
         <td>Lab 5. HOFs<br/>
         Lab 6. Boards<br/>
