@@ -46,8 +46,8 @@ nav_order: 5
     </tr>
     <tr>
         <th>Tue 6/24</th> <!-- Date -->
-        <td>Lec 3. Conditions, Predicates, Truth Tables<br/>
-        Lec 4. Lists + Loops</td><!-- Lecture -->
+        <td><a href="https://docs.google.com/presentation/d/12hrzIf6xTr3KwZJ1wSJ2LmpG4HR_pLfecn6FNS_fBHg/edit?usp=sharing">Lec 3. Conditions, Predicates, Truth Tables<br/>
+        Lec 4. Lists + Loops</a></td><!-- Lecture -->
         <td><a href="/bjc-su25/lab_directory">Lab 1. Welcome to Snap!</a><br/>
         <a href="/bjc-su25/lab_directory">Lab 2. Build Your Own Blocks</a><br/>
         <a href="/bjc-su25/lab_directory">Lab 3. Conditionals</a><br/></td> 
@@ -56,7 +56,7 @@ nav_order: 5
     </tr>
     <tr>
         <th>Wed 6/25</th> <!-- Date -->
-        <td><a href="https://docs.google.com/presentation/d/17893julpXKYbyaqKWu-feqOxZjTeZ7TjO2sAGooePxA/edit?usp=sharing">Lec 5. Higher Order Functions (HOFs)</a></td> <!-- Lecture -->
+        <td><a href="https://docs.google.com/presentation/d/12hrzIf6xTr3KwZJ1wSJ2LmpG4HR_pLfecn6FNS_fBHg/edit?usp=sharing">Lec 5. Higher Order Functions (HOFs)</a></td> <!-- Lecture -->
         <td>Lab 4. Lists + Loops</td><!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
