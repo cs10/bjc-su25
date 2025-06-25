@@ -62,10 +62,14 @@ nav_order: 6
     </tr>
     <tr>
         <th>Wed 6/25</th> <!-- Date -->
-        <td></td> <!-- Lecture -->
-        <td></td><!-- Lab -->
-        <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignments -->
+        <td>Lec 5. Higher Order Functions (HOFs)<br/>
+        Lec 6. Nested Lists</td> <!-- Lecture -->
+        <td>Lab 5. HOFs<br/>
+        Lab 6. Boards<br/>
+        Lab 7. Functions as Data</td><!-- Lab -->
+        <td>Disc. HOFs + Nested Lists</td> <!-- Discussion -->
+        <td>Wordle<br/>
+        Spelling Bee<br/></td> <!-- Assignments -->
     </tr>
     <tr>
         <th>Thu 6/26</th> <!-- Date -->
