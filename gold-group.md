@@ -56,8 +56,8 @@ nav_order: 5
     </tr>
     <tr>
         <th>Wed 6/25</th> <!-- Date -->
-        <td></td> <!-- Lecture -->
-        <td></td><!-- Lab -->
+        <td><a href="https://docs.google.com/presentation/d/17893julpXKYbyaqKWu-feqOxZjTeZ7TjO2sAGooePxA/edit?usp=sharing">Lec 5. Higher Order Functions (HOFs)</a></td> <!-- Lecture -->
+        <td>Lab 4. Lists + Loops</td><!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
     </tr>
