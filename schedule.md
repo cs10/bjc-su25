@@ -31,7 +31,7 @@
   <tbody class="content">
     <tr>
         <th>Mon 6/23</th> <!-- Date -->
-        <td><a href="https://docs.google.com/presentation/d/1lLHNRxC-hFjUC6IRd1SVvomoHJ4qrBk5K5pwKhQz8_4/edit?usp=sharing">Lec 1. Abstraction</a><br/>
+        <td><a href="https://docs.google.com/presentation/d/1hP4l4byISGeZ1HQrF3TvanQvGaspO2z40wgQGNdforw/edit?usp=sharing">Intro Slides</a><br/><a href="https://docs.google.com/presentation/d/1lLHNRxC-hFjUC6IRd1SVvomoHJ4qrBk5K5pwKhQz8_4/edit?usp=sharing">Lec 1. Abstraction</a><br/>
         <a href="https://docs.google.com/presentation/d/1VjecrMcJNnJnYVlxLFCqK2fSOxz39r64Yx-DOcmk8iE/edit?usp=sharing">Lec 2. Functions</a></td><!-- Lecture -->
         <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?1&2&3&topic=berkeley_bjc%2Fintro_pair%2F1-introduction.topic&course&novideo&noreading&noassignment">Lab 1: Welcome to Snap!</a><br/>
         <a href="https://cs10.org/bjc-r/cur/programming/loops/repeat-n/introduction-to-repeat-n.html?1&2&2&3&topic=berkeley_bjc%2Fintro_pair%2F2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">Lab 2. Build Your Own Blocks</a></td><!-- Lab -->
