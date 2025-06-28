@@ -45,8 +45,7 @@ nav_order: 4
     </tr>
     <tr>
         <th>Tue 6/24</th> <!-- Date -->
-        <td>Lec 3. Conditions, Predicates, Truth Tables<br/>
-        Lec 4. Lists + Loops</td><!-- Lecture -->
+        <td><a href="https://docs.google.com/presentation/d/1lOvPGZ1d6SOilCYHrLKNQpLGG0Vpd6m4Qx3i6uLq1rE/edit?usp=sharing">Lecture: Conditionals, Predicates, Reporters</a></td><!-- Lecture -->
         <td><a href="/bjc-su25/lab_directory">Lab 1. Welcome to Snap!</a><br/>
         <a href="/bjc-su25/lab_directory">Lab 2. Build Your Own Blocks</a><br/>
         <a href="/bjc-su25/lab_directory">Lab 3. Conditionals</a><br/></td> 
@@ -55,7 +54,7 @@ nav_order: 4
     </tr>
     <tr>
         <th>Wed 6/25</th> <!-- Date -->
-        <td></td> <!-- Lecture -->
+        <td><a href="https://docs.google.com/presentation/d/1iKxL49mrcRr3Xj2JSJB_DgrDYFtUPHabb6gZOS_oqE0/edit?usp=sharing">Lecture: Block Types, Variables, Lists, Loops</a></td> <!-- Lecture -->
         <td></td><!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
