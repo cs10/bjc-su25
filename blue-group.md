@@ -69,7 +69,7 @@ nav_order: 4
     </tr>
     <tr>
         <th>Fri 6/27</th> <!-- Date -->
-        <td><a href="https://docs.google.com/presentation/d/1wTHm5WBqCWBxHGikdMoJSyKlrNljobwYmaKyfahzbFI/edit?usp=sharing">Lecture: Higher Order Functions (HOFs)</a></td>td
+        <td><a href="https://docs.google.com/presentation/d/18tm1zPq37Bfn7fVQAhetrXU1QCZgBgzfeJV7Mr9nwnA/edit?usp=sharing">Lecture: Higher Order Functions (HOFs)</a></td>td
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
