@@ -30,11 +30,11 @@ nav_order: 3
     </tr>
     <tr>
     <tr>
-      <td><a href="/sp25/projects/project6-proposals">Project 4: Proposals</a></td>
+      <td><a href="/bjc-su25/projects/project6-proposals">Project 4: Proposals</a></td>
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="/sp25/projects/project6-project">Project 4: Final Project</a></td>
+      <td><a href="/bjc-su25/projects/project6-project">Project 4: Final Project</a></td>
       <td>-</td>
     </tr>
   </tbody>
