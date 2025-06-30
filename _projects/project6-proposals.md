@@ -11,11 +11,6 @@ submission_files:
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
-- Meeting with a Staff Member
-    - You must sign-up for a 10-minute slot with a staff member to get your project approved. Only one member of your group needs to attend. Failure to be one time will mean you will need to sign-up for a new time slot; otherwise, you will get a '0' score. 
-        - Click here for the [link to sign up](https://calendar.google.com/calendar/u/0/appointments/AcZssZ2gYOJsSLRS97v-zbASRViZIUo_fKvMB9qPQEQ=)
-    - Meetings will run a specific times during Week 12 (April 8th through April 11th)
-    - As of 4/2, there are only a limited number of spots, but we will add more.
 
 ## Content
 
@@ -33,17 +28,9 @@ submission_files:
 
 [VII. Proposal Review: What to Expect](#proposal-review-what-to-expect)
 
-## Important logistics
-
-- The Project Proposal Meeting is worth 10 points of your final grade. 10 minute Meetings will be held in person Mon-Fri during Week 11 in Soda 326. To schedule a booking, click here for the booking page: [Proposal Meeting Sign-ups](https://calendar.google.com/calendar/u/0/appointments/AcZssZ2gYOJsSLRS97v-zbASRViZIUo_fKvMB9qPQEQ=).
-- You must work in groups of 2. Groups of 3 are sometimes permitted with approval from a TA, and we increase their project-complexity requirements accordingly. If you want to work alone you must get explicit permission from your lab TA. You will still be graded as if you were in a group of 2.   
-- The deadline for this proposal part of the project is Wednesday, 10/30 at 11:59pm PST. Please ensure that you submit your proposal before the deadline. There will be NO extensions available for the proposal and it is your responsibility to reach out on EdStem if your group can not make any of the meeting times. 
-- Please sign up for a time slot to meet up with a staff member for a proposal review before you submit the assignment on gradescope. You should sign up for an appointment on Google Calendar. You can choose whichever time works best for your group. Meetings will take place in-person, during designated lab times.  
-- If none of the times work for you, please make a private post on Ed ASAP. If you do not notify us by 10/30, you will not be able to meet with a staff member and will receive a 0 on this part of the project.
-
 ## Introduction
 
-For the final project, you’ll be building a project that you envision in either Snap! or Python, completely from scratch (how cool is that!) First, however, you’ll need to submit a project proposal that will be reviewed by a staff member to ensure that your project won’t be too easy or too complex. The proposal should come to about 1-2 pages, single-spaced (before you transfer the information to Gradescope). An example is provided below. 
+For the final project, you’ll be building a project that you envision in Snap!, completely from scratch (how cool is that!) First, however, you’ll need to submit a project proposal that will be reviewed by a staff member to ensure that your project won’t be too easy or too complex. The proposal should come to about 1-2 pages, single-spaced (before you transfer the information to Gradescope). An example is provided below. 
 This proposal is meant to be just an ideas-focused starting point — the spec for the technical requirements of the final project can be found here, and you should reference that as you work with a staff member to ensure that your project idea will meet all requirements.
 
 Please read through this entire spec before writing your proposal. Keep in mind that the project proposal is a REQUIRED element of the final project, and you will receive a 0 on this part of the project if you do not submit your proposal and meet with a staff member for feedback. 
@@ -103,11 +90,7 @@ On top of the technical requirement your project must have required features. He
         - At least two sprite costumes
         - At least one sound
         - A help screen or guide to interact with program / instructions
-- Organized Text UI in Python
-    - Must include:
-        - A visual print statement of current state of program
-        - A list of functions the user can (such as help, place move, restart, etc.)
-- Extensive use of OOP in Python 
+- Extensive use of OOP in Snap!
     - The main logic of the name would use an OOP structure
 - API calls (calls to other programs or websites) - Don’t worry about doing this one; but it’s an option if you’re interested!
 - Structures keeping track of important data
@@ -118,7 +101,7 @@ On top of the technical requirement your project must have required features. He
         - Determining whether a game is over condition
         - Determining whether a move is valid
         - Determining and displaying the top three (or some number) of high scores
-- Extensive use of libraries (in either Python or Snap!)
+- Extensive use of libraries (in Snap!)
     - Must use at least three different functions for the library imported
     - Or three different libraries imported, and one function each is used. 
 - An AI that runs the program/plays game and tries to optimize for winning moves
@@ -135,7 +118,6 @@ On top of the technical requirement your project must have required features. He
 So now that you’ve got a project idea in mind, it’s time to write about it! The questions you should answer in your project proposal are below. We recommend you draft your answers out on a Google Doc or Word document before submitting them into Gradescope.
 
 - Who are the members of the group? List each group member’s name and SID. You should work in pairs of 2, but if you want to work alone (or in groups of 3) you’ll need to get explicit permission from your TA during the meeting. This is a complicated project, so we very rarely permit students to work solo. 
-- What language will your project be in? Python or Snap? If you’re doing a graphics-heavy project, we recommend Snap!, as staff will have limited capacity to assist with debugging Python libraries. If you’re not sure, pick whichever you and your group feels more comfortable coding in, and you can check in with your TA/tutor about it later. 
 - What is your vision for the project? Describe the specific project and the major 2-3 features (listed above) you’d like to accomplish. Groups of 2 should list 2 features, groups of 3 should list 3. Please go into detail on this one, even if you think your project is well-known! The clearer you are, the better your TA/tutor will be able to help you adjust the project if it falls outside the optimal range of complexity. 
 - How will someone interact with your project? Describe the controls that will be used. For Projects 1-2, the answer to this question would be text input via keyboard. For Project 3, the answer would be keyboard controls/arrow keys. 
 - What are the technical elements behind your features? Go into more detail about your preliminary thoughts about how you’ll make the 2-3 features happen. What you come up with here doesn’t have to be exactly what you end up doing, but it should convey how you plan on implementing the project in terms of blocks/functions or computing ideas. For example, Pytris utilizes object-oriented programming to build and abstract different elements of the game.
