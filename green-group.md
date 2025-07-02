@@ -87,3 +87,59 @@ nav_order: 6
 </table>
 
 <br/>
+
+
+
+<!-- Week 2 Calendar -->
+<table class="table table-bordered schedule-table" id="week1">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week 2</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion / Social Implications</th>
+      <th>Assignment / Project</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+        <th rowspan="5">Week 2</th> <!-- Span 5 days -->
+        <th>Mon 6/30</th> <!-- Date -->
+        <td>Lecture: Algorithms/td><!-- Lecture -->
+        <td>Lab: Algorithms<br/>Finish Lab 8/9: Recursive Reporters + Fractals</td> <!-- Lab -->
+        <td></td> <!-- Discussi>on -->
+        <td>Final Project Proposals and Approvals</td> <!-- Assignment / Exam -->
+    </tr>
+    <tr>
+        <th>Tue 7/1</th> <!-- Date -->
+        <td>Work on Cheese Chase<br/></td><!-- Lecture -->
+        <td>Finish Lab 10: Algorithms</td> <!-- Lab -->
+        <td>Ask Me Anyting</td> <!-- Discussion -->
+        <td>Work on Final Projects</td> <!-- Assignment / Exam -->
+    </tr>
+    <tr>
+        <th>Wed 7/2</th> <!-- Date -->
+        <td>Lecture: Data Science</td><!-- Lecture -->
+        <td>Data Science Lab</td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td>Work on Final Projects</td> <!-- Assignment / Exam -->
+    </tr>
+    <tr>
+        <th>Thu 7/3</th> <!-- Date -->
+        <td>Presentations</td><!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td>Work on README for Final Projects</td> <!-- Assignment / Exam -->
+    </tr>
+    <tr>
+        <th>Fri 7/4</th> <!-- Date -->
+        <td>No class! Going home!</td><!-- Lecture -->
+        <td>No class! Going home!</td> <!-- Lab -->
+        <td>No class! Going home!</td> <!-- Discussion -->
+        <td>No class! Going home!</td> <!-- Assignment / Exam -->
+    </tr>
+  </tbody>
+</table>
+
+<br/>

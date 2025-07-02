@@ -87,39 +87,39 @@
   <tbody class="content">
     <tr>
         <th>Mon 6/30</th> <!-- Date -->
-        <td>
-        <a href="https://docs.google.com/presentation/d/1v15z90lMU9peXgaoONzZb4kyDShisy0qO0hXzwDvAZc/edit?usp=sharing">Lec. Algorithmic Complexity</a></td><!-- Lecture -->
-        <td><a href="/bjc-su25/lab_directory">Lab 10. Algorithms</a><br/></td><!-- Lab -->
-        <td>Group Activity<br/></td> <!-- Discussion -->
-        <td><a href="">Feedback Form</a><br/></td> <!-- Assignment / Exam -->
+        <th>Mon 6/30</th> <!-- Date -->
+        <td>Lecture: Algorithms/td><!-- Lecture -->
+        <td>Lab: Algorithms<br/>Finish Lab 8/9: Recursive Reporters + Fractals</td> <!-- Lab -->
+        <td></td> <!-- Discussi>on -->
+        <td>Final Project Proposals and Approvals</td> <!-- Assignment / Exam -->
     </tr>
     <tr>
-        <th>Tue 7/01</th> <!-- Date -->
-        <td>Lectures</td><!-- Lecture -->
-        <td>Labs</td> <!-- Lab -->
-        <td>Discussion<br/>Computing in the News</td> <!-- Discussion -->
-        <td>Projects<br/><a href="">Feedback Form</a></td> <!-- Assignment / Exam -->
+        <th>Tue 7/1</th> <!-- Date -->
+        <td>Work on Cheese Chase<br/></td><!-- Lecture -->
+        <td>Finish Lab 10: Algorithms</td> <!-- Lab -->
+        <td>Ask Me Anyting</td> <!-- Discussion -->
+        <td>Work on Final Projects</td> <!-- Assignment / Exam -->
     </tr>
     <tr>
-        <th>Wed 7/02</th> <!-- Date -->
-        <td>Lectures</td><!-- Lecture -->
-        <td>Labs</td> <!-- Lab -->
-        <td>Discussion<br/>Computing in the News</td> <!-- Discussion -->
-        <td>Projects<br/><a href=""">Feedback Form</a></td> <!-- Assignment / Exam -->
+        <th>Wed 7/2</th> <!-- Date -->
+        <td>Lecture: Data Science</td><!-- Lecture -->
+        <td>Data Science Lab</td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td>Work on Final Projects</td> <!-- Assignment / Exam -->
     </tr>
     <tr>
-        <th>Thu 7/03</th> <!-- Date -->
-        <td>Lectures</td><!-- Lecture -->
-        <td>Labs</td> <!-- Lab -->
-        <td>Discussion<br/>Computing in the News</td> <!-- Discussion -->
-        <td>Projects<br/><a href="">Feedback Form</a></td> <!-- Assignment / Exam -->
-    </tr>
-    <tr>
-        <th>Fri 6/27</th> <!-- Date -->
-        <td>Lectures</td><!-- Lecture -->
-        <td>Labs</td> <!-- Lab -->
-        <td>Discussion<br/>Computing in the News</td> <!-- Discussion -->
+        <th>Thu 7/3</th> <!-- Date -->
+        <td>Presentations</td><!-- Lecture -->
+        <td>Work on README</td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
         <td>Projects<br/><a href="https://docs.google.com/document/d/1wx_kZrHuBi1Sq0NL9DpeAxUdLfuQBNXuEXWvUrjmLY0/edit?usp=sharing">Final Project Submission Guidelines</a><br/><a href="">Feedback Form</a></td> <!-- Assignment / Exam -->
+    </tr>
+    <tr>
+        <th>Fri 7/4</th> <!-- Date -->
+        <td>No class! Going home!</td><!-- Lecture -->
+        <td>No class! Going home!</td> <!-- Lab -->
+        <td>No class! Going home!</td> <!-- Discussion -->
+        <td>No class! Going home!</td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
