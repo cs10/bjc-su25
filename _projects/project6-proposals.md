@@ -1,7 +1,6 @@
 ---
-title: Project 5
+title: Project 4
 description: Final Project Proposals
-due: "11:59 PM PST on Monday, 4/7"
 gradescope_assignment_id: 5617918
 submission_files:
     - N/A
@@ -127,7 +126,7 @@ Here is an [example proposal](https://docs.google.com/document/d/1gy4L6KfyPLT01X
 
 ## Submission Guidelines
 
-By Sunday, October 28th 11:59pm PST deadline, you and your partner(s) will submit your project proposal as a group on Gradescope. There is 1 assignment, and you should mention the date and time of the slot you signed up for in Question 2 of the assignment.
+You and your partner(s) will submit your project proposal as a group on Gradescope. 
 
 The assignment has the proposal format in it, so your group will need to fill out all of the boxes with your answers to the questions listed in the previous section! Only one person from the group needs to submit. After you submit, please don’t forget to add your partner(s) to the submissions!
 
@@ -140,15 +139,3 @@ Your project proposal review will take place during the time slot your group sig
 You will explain your project and a staff member will review your project proposal, and either approve or disapprove it. Keep in mind that even if your initial proposal is disapproved, that’s only an indication that that specific version of the project might have been too complex or not complex enough! Your TA/tutor will work with you during the proposal review session to figure out a fix or adjustment to your project idea or suggest other ideas if necessary. 
 
 Regardless of the status of your project proposal (whether it’s unfinished or you’ve changed your mind), you must attend the project proposal review meeting with a TA/tutor. If you are able, please try to attend the lab/OH of the TA/tutor you have your proposal reviewed for the duration of the final project. 
-
-If your initial project proposal is not approved: 
-
-- It’s okay! This happens to lots of students every semester, and really just means that you’ll have to adapt your idea a bit to ensure it fits our complexity requirements, which the staff member you meet with for your proposal review will help you with. If you decide you’d rather pursue a different project idea, please note that you’ll need to write up another project proposal, and have that approved before you can start working. 
-Note: If you choose not to adjust your project as suggested or do not submit a second proposal when your idea changes, you are unlikely to receive full credit for complexity.
-
-If your initial project proposal is approved: 
-
-- Congrats! You can start working on your project. Note any questions (for resources, clarifications, or suggestions/advice on implementation) that you might have for your project TA/tutor, and bring them up during your proposal review session!
-
-As you begin to code, you may feel the need to make adjustments to your project and features (often because of time constraints or unexpected complexity). This is perfectly okay! You don’t have to run the changes by your project TA/tutor to start implementing them, but we do recommend that you check in with any adjustments to ensure that you are still within complexity guidelines.
-
