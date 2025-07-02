@@ -1,7 +1,7 @@
 ---
-title: Project 5
+title: Project 4
 description: Final Project - The Project 
-due: "11:59 PM PST on Monday, 5/05"
+due: Thursday, July 3rd at 12:00AM
 gradescope_assignment_id: 5617938
 submission_files:
     - N/A
@@ -11,20 +11,15 @@ submission_files:
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
-- You are required to attend the final project proposal meetings in person. Failure to do so will result in no points awarded for your approved features and meeting attendance, leading to a 50% deduction in your final project score.
-
 > There are three required components for the project:
 >>The project / code itself
 >>README / documentation on your project
 >>Video of your group interacting with your project
 
->Project 6 Parties (both during lab from 3 to 5PM in The Woz)
->>Tuesday, 4/29 
->>Thursday, 5/1 
 
 ## Content
 
-[I. Recommended Timeline](#recommended-timeline)
+[I. Content](#content)
 
 [II. Introduction](#introduction)
 
@@ -38,23 +33,10 @@ submission_files:
 
 [VII. Submission Guidelines](#submission-guidelines)
 
-[VIII. Rubric & Grading](#rubric--grading)
+[VIII. Submitting](#submitting)
 
 [IX: Additional Resources](#appendix-i-additional-resources)
 
-
-## Recommended Timeline
-- The dates listed below are the suggest timeline for completion of each component of the final project.
--  This timeline asumes that you have completed the proposal review
-    - It is recommended that you start working on your project as soon as your proposal is approved. 
-
-| Group w/ 2 Features | Group w/ 3 Features |
-| :--------: | :-------: |
-| Feature 1: 4/18  |Feature 1: 4/16   |
-| Feature 2: 4/25  | Feature 2: 4/23  |
-| Full Project Submission Ready: 5/2  | Feature 3: 4/28  |
-| README and Submission: By 5/5  | Full Project Submission Ready: 5/2   |
-|   | README and Submission: By 5/5   |
 
 
 ## Introduction
@@ -94,12 +76,6 @@ Your README is meant to serve as a guide to your project, and will be used by th
 
 The template (including instructions) for the final project README can be found [here](https://docs.google.com/document/d/1GiZ6tE-mnezyiry7p_gmEswNRfx7ntNjT3Z-wcfZToA/edit?tab=t.0). Please make a copy of the Google Doc to work on, and make sure to submit it as a **PDF**. 
 
-**[Optional] Bug Writeup**: Sometimes, despite your best efforts, the project deadline rolls around and you’ve still got a bug big enough that one or more of your features isn’t working correctly. This happens in industry as well — think about app updates you’ve downloaded! 
-
-Not to fret, you can earn back up to 75% of the points originally lost for a non-functional feature with a thorough write-up. (Points given will depend on the size of the bug; this is meant to limit the points penalty for not implementing a bug-free project feature.) 
-
-Here’s an [example](https://docs.google.com/document/d/1A6Tzm0UZte8gMnnmE2PV1J9xO__z6SaLkDVA6j3-I5s/edit?tab=t.0) of what we’re looking for in a bug writeup, based on a function you wrote for the OOP lab.
-
 
 ## Video Requirements
 Your video is meant to be a supplement to your README, and will be used to make sure that your submission is graded fairly. Please demonstrate exactly how to run your project (especially if you are using Python), the controls, and each of the features. If you are completing a Bug write-up, please demonstrate the bug(s) that you are explaining in your README in order to receive points back. Your video must be under 3 minutes in order to receive full credit.
@@ -109,8 +85,6 @@ You may either submit your video via Google Drive or YouTube. If you are submitt
 *Additionally, include the link to your shared video in your README. If we do not have access to your video you may not get credit for this portion of the assignment.* 
 
 Final Project Demo Examples:
-
-[Python](https://www.youtube.com/watch?v=UsjNnCpaTSQ&ab_channel=DorottyaUrmossy)
 
 [Snap!](https://youtu.be/lzp4td5FGzo)
 
@@ -132,55 +106,12 @@ You should submit two things to the Gradescope final project assignment:
 
 **If you run into any issues submitting, go to a lab or office hours or make a private post on Ed**
  
-## Rubric & Grading
+## Submitting
+Instructions for submitting can be found here: [Submission Instructions](https://docs.google.com/document/d/1wx_kZrHuBi1Sq0NL9DpeAxUdLfuQBNXuEXWvUrjmLY0/edit?usp=sharing)
 
-Your project will be graded for style and technical correctness according to the following rubric. After you get your grades back, you can submit regrade requests via Gradescope (if you feel we missed something in your original file submission).  
-
-Please don't forget to add your partner(s) to the submissions! [How to add a partner to Gradescope.](/fa24/assets/images/p6/p6-1.png)
-
-| README | (10 pts) |
-| -------- | ------- |
-| +2 | README contains features description |
-| +2  | README contains complexity justification |
-| +2  | README contains variable justification |
-| +2  | README contains blocks/functions table |
-| +2  | README or code comments describe program controls  |
-
-| Features  | (15 pts) |
-| -------- | ------- |
-| +7.5 / feature | Groups of 1-2, who implemented two (2) features |
-| -7.5 / feature | If the feature implemented was not approved by TA (for groups implementing 2 features). |
-| +5 / feature  | Groups of 2-3, who implemented three (3) features |
-| -5 / feature| If the feature implemented was not approved by TA (for groups implementing 3 features). |
-| -3 / bug | For each major bug (project-breaking/crashing)|
-| -1 / bug | For each minor bug (errors only on specific input or subpart of feature)|
-| +2 / bug | *Optional* Bug writeup for a major bug (see README)|
-| +1 / bug | *Optional* Bug writeup for a minor bug (see README)|
-
-| Technical Requirements | (15 pts) |
-| -------- | ------- |
-| +4 | Req 1: Custom function |
-| +4  | Req 2: Custom function |
-| +3.5  | Req 3: Non-trivial list |
-| +3.5  | Req 4: 1 or more script or local variable(s) |
-
-| Style Requirements | (5 pts) |
-| -------- | ------- |
-| +2 | Useful and coherent comments |
-| -1  | Comments are disorganized / incoherent but present |
-| +2  | No repetitive code / good use of helper blocks or functions |
-| +1  | Clear and useful variable and block names |
-
-| Project Demo Video | (5 pts) |
-| -------- | ------- |
-| +2 | Video contains how to run the project |
-| +1.5  | Video contains how to use program controls |
-| +1.5  | Video contains demonstration for each feature  |
-| -1  | Video is longer than 3 minutes |
 
 
 ## Appendix I: Additional Resources
-- Please Attend OH or Final Project Parties 
 - [README Template](https://docs.google.com/document/d1GiZ6tE-mnezyiry7p_gmEswNRfx7ntNjT3Z-wcfZToA/edit?tab=t.0)
 - [Bug Writeup](https://docs.google.com/document/d/1A6Tzm0UZte8gMnnmE2PV1J9xO__z6SaLkDVA6j3-I5s/edit?usp=sharing)
 - [Project Proposal Spec](https://cs10.org/fa24/projects/project6-proposals/) 

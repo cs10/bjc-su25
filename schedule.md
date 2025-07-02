@@ -13,7 +13,7 @@
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
-    <a href="#week1">Jump to Current Week</a>
+    <a href="#week2">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 Calendar -->
@@ -68,6 +68,58 @@
         <td>Labs</td> <!-- Lab -->
         <td>Discussion<br/>Computing in the News</td> <!-- Discussion -->
         <td>Projects<br/><a href="">Feedback Form</a></td> <!-- Assignment / Exam -->
+    </tr>
+  </tbody>
+</table>
+
+<!-- Week 1 Calendar -->
+<table class="table table-bordered schedule-table" id="week1">
+  <thead>
+    <tr>
+      <th class="center schedule-week-num">Week 1</th>
+      <th>Date</th>
+      <th>Lecture</th>
+      <th>Lab</th>
+      <th>Discussion / Social Implications</th>
+      <th>Assignment / Project</th>
+    </tr>
+  </thead>
+  <tbody class="content">
+    <tr>
+        <th>Mon 6/30</th> <!-- Date -->
+        <td>
+        <a href="https://docs.google.com/presentation/d/1v15z90lMU9peXgaoONzZb4kyDShisy0qO0hXzwDvAZc/edit?usp=sharing">Lec. Algorithmic Complexity</a></td><!-- Lecture -->
+        <td><a href="/bjc-su25/lab_directory">Lab 10. Algorithms</a><br/></td><!-- Lab -->
+        <td>Group Activity<br/></td> <!-- Discussion -->
+        <td><a href="">Feedback Form</a><br/></td> <!-- Assignment / Exam -->
+    </tr>
+    <tr>
+        <th>Tue 7/01</th> <!-- Date -->
+        <td>Lectures</td><!-- Lecture -->
+        <td>Labs</td> <!-- Lab -->
+        <td>Discussion<br/>Computing in the News</td> <!-- Discussion -->
+        <td>Projects<br/><a href="">Feedback Form</a></td> <!-- Assignment / Exam -->
+    </tr>
+    <tr>
+        <th>Wed 7/02</th> <!-- Date -->
+        <td>Lectures</td><!-- Lecture -->
+        <td>Labs</td> <!-- Lab -->
+        <td>Discussion<br/>Computing in the News</td> <!-- Discussion -->
+        <td>Projects<br/><a href=""">Feedback Form</a></td> <!-- Assignment / Exam -->
+    </tr>
+    <tr>
+        <th>Thu 7/03</th> <!-- Date -->
+        <td>Lectures</td><!-- Lecture -->
+        <td>Labs</td> <!-- Lab -->
+        <td>Discussion<br/>Computing in the News</td> <!-- Discussion -->
+        <td>Projects<br/><a href="">Feedback Form</a></td> <!-- Assignment / Exam -->
+    </tr>
+    <tr>
+        <th>Fri 6/27</th> <!-- Date -->
+        <td>Lectures</td><!-- Lecture -->
+        <td>Labs</td> <!-- Lab -->
+        <td>Discussion<br/>Computing in the News</td> <!-- Discussion -->
+        <td>Projects<br/><a href="https://docs.google.com/document/d/1wx_kZrHuBi1Sq0NL9DpeAxUdLfuQBNXuEXWvUrjmLY0/edit?usp=sharing">Final Project Submission Guidelines</a><br/><a href="">Feedback Form</a></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
